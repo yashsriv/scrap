@@ -1,0 +1,12 @@
+[package]
+name = "scrap"
+version = "0.1.0"
+authors = ["Yash Srivastav <yash111998@gmail.com>"]
+
+[dependencies]
+clap = "2.32.0"
+regex = "1"
+ssh2 = "0.3.3"
+tempfile = "3.0.4"
+username = "0.2"
+walkdir = "2"
